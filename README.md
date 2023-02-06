@@ -99,7 +99,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
+[Vanilla JS Checkout-Project](https://salihaoguz11.github.io/CHECKOUT-PROJECT/) <h3>[Repo](https://salihaoguz11.github.io/CHECKOUT-PROJECT/)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 
 
 
@@ -109,11 +109,11 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=szrokmn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=salihaoguz11&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=szrokmn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihaoguz11&theme=blue-green"
      alt=""
      /> <br/>
 </div>
