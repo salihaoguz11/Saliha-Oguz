@@ -4,7 +4,7 @@
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Saliha
 
-<font color="pink"> 🐱‍🏍 I'm a Front-End Developer. </font>
+<font color="pink"> 🐱‍🏍 I'm a Front-End Developer</font>
 </br>
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
